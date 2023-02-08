@@ -1,5 +1,5 @@
 # Cloud saving and loading for emulating games - command line tool for linux
-Save and load your saves from the cloud easily
+Save and load your saves from the cloud easily. Works well with Wasabi buckets.
 
 - - - -
 
