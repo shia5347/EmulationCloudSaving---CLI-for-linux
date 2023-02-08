@@ -1,5 +1,5 @@
-# EmulationCloudSaving - command line tool for linux
-Save and load emulation saves from the cloud easily
+# Cloud saving and loading for emulating games - command line tool for linux
+Save and load your saves from the cloud easily
 
 - - - -
 
@@ -7,4 +7,4 @@ Save and load emulation saves from the cloud easily
 
 **notify (for notifications)<br/>**
 **sox (for playing sounds) <br/>**
-**lftp (for ftp support over TCL) <br/>**
+**lftp (for ftps support) <br/>**
