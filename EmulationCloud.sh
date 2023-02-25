@@ -1,7 +1,7 @@
 #/bin/bash
 
 #Server information for FTP over TCL
-FTP_USER="mugeneve@gmail.com"
+FTP_USER=""
 FTP_PASSWD="" #NOTE TO SELF: Remove password when uploading repository
 SERVER="s3.ca-central-1.wasabisys.com"
 FOLDER="emulationcloudsave" 
