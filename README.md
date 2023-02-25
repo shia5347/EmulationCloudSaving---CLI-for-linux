@@ -1,5 +1,5 @@
-# Cloud saving and loading for playing games on an emulator - command line tool for linux (STILL IN DEVELOPMENT; NOT RECOMMENDED TO USE RIGHT NOW- SAVES IN DANGER)
-Load your saves on and from the cloud easily. Works well with Wasabi buckets. 
+# Cloud saving and loading for playing games on an emulator - command line tool for linux 
+Load your saves on and from the cloud easily. Works well with Wasabi buckets. It is recommended to retrieve game saves before starting them and uploading them after your done playing with them.
 
 - - - -
 
